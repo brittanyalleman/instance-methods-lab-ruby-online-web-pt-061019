@@ -8,4 +8,9 @@ class Person
   @name = name
   end
 
+def talk
+  puts "Hello World"
+end
+
+
 end
